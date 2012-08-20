@@ -1,0 +1,143 @@
+div.badges ul{
+  list-style: none;
+  margin:0px;
+  padding:5px 0px 10px 0px;
+}
+
+div.badges ul li{
+  display: inline;
+  margin-left: 10px !important;
+}
+
+div.badges ul li img{
+  width: 60px;
+}
+
+div.achievement_table{
+  width:93%;
+  clear: both;
+  border-radius:5px;
+  background: #EBEBEB;
+  padding: 20px;
+  overflow: hidden;
+}
+
+table#achievers_list {
+  width: 100%;
+}
+
+table#achievers_list tbody tr td{
+  padding: 4px 0px 4px 0px !important;
+  border-bottom: 1px solid #efefef;
+}
+
+table#achievers_list thead tr th{
+  border-bottom: 1px solid #a9a9a9;
+}
+
+table.achievement_profile_table {
+  border:none;
+  width:100%;
+  margin-left:20px;
+}
+
+table.achievement_profile_table td, table.achievement_profile_table th {
+    border:none;
+}
+
+table.achievement_profile_table th{
+  text-align: left;
+  font-weight: bold;
+  border-bottom:1px solid #efefef;
+  line-height:32px;
+  padding:0px !important;
+}
+
+table.achievement_profile_table td{
+  border-bottom:1px solid #efefef;
+
+}
+
+table.achievement_profile_table tr:last-child td{
+  border: none;
+}
+
+table.achievement_profile_table tr:last-child th{
+  border: none;
+}
+
+table.achievement_info_table{
+  border:none;
+  margin-left:55px;
+}
+
+table.achievement_info_table th{
+    text-align:left;
+    font-weight: bold;
+    width: 40%;
+    line-height:32px;
+}
+
+table.achievement_info_table td, table.achievement_info_table th{
+  border:none;
+  border-bottom: 1px solid #ddd;
+}
+
+img#achievement_img_single{
+  max-width: 600px;
+  max-height: 400px;
+}
+
+div.achievement_profile{
+  overflow: hidden;
+}
+
+div.achievement_data_single{
+  margin: 10px 0px;
+}
+
+div.achievement_part{
+  border-bottom: 1px solid #DDD;
+  padding-bottom: 10px;
+  overflow: hidden;
+}
+
+div.achievement_part:last-child{
+  border: none;
+}
+
+div.achievement_profile_img, div.achievement_img{
+  float: left;
+  width:20%;
+  padding: 5px 0px;
+}
+
+div.achievement_profile_info input[type="submit"]{
+  display:inline !important;
+  margin:0px 20px;
+}
+
+div.achievement_profile_info, div.achievement_data{
+  float: left;
+  width:80%;
+}
+
+div.achievement_more{
+  clear: both;
+}
+div.achievement_profile_img img, div.achievement_img img{
+  margin: 0 auto;
+} 
+
+span.title{
+  font-size:22px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+span.students{
+  float: right;
+  text-transform:uppercase;
+  color: #E28037 !important;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+input.edit_profile{
+	width:200px;
+}
+
+table.edit_profile tr td, table.edit_profile tr th{
+	border-top: 1px solid #efefef;
+}
+
+table.edit_profile tr td {
+	vertical-align: top;
+}

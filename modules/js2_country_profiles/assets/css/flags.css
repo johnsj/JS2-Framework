@@ -1,0 +1,100 @@
+.flag {
+	width: 16px;
+	height: 11px;
+	background:url(flags.png) no-repeat
+}
+
+.flag.flag-ad {background-position: -16px 0}
+.flag.flag-al {background-position: -32px 0}
+.flag.flag-am {background-position: -48px 0}
+.flag.flag-at {background-position: -64px 0}
+.flag.flag-ba {background-position: -80px 0}
+.flag.flag-be {background-position: -96px 0}
+.flag.flag-bg {background-position: -112px 0}
+.flag.flag-bv {background-position: -128px 0}
+.flag.flag-by {background-position: 0 -11px}
+.flag.flag-catalonia {background-position: -16px -11px}
+.flag.flag-ch {background-position: -32px -11px}
+.flag.flag-cz {background-position: -48px -11px}
+.flag.flag-de {background-position: -64px -11px}
+.flag.flag-dk {background-position: -80px -11px}
+.flag.flag-ee {background-position: -96px -11px}
+.flag.flag-england {background-position: -112px -11px}
+.flag.flag-es {background-position: -128px -11px}
+.flag.flag-eu {background-position: 0 -22px}
+.flag.flag-fi {background-position: -16px -22px}
+.flag.flag-fo {background-position: -32px -22px}
+.flag.flag-fr {background-position: -48px -22px}
+.flag.flag-gb {background-position: -64px -22px}
+.flag.flag-gg {background-position: -80px -22px}
+.flag.flag-gi {background-position: -96px -22px}
+.flag.flag-gr {background-position: -112px -22px}
+.flag.flag-gs {background-position: -128px -22px}
+.flag.flag-hm {background-position: 0 -33px}
+.flag.flag-hr {background-position: -16px -33px}
+.flag.flag-hu {background-position: -32px -33px}
+.flag.flag-ie {background-position: -48px -33px}
+.flag.flag-il {background-position: -64px -33px}
+.flag.flag-im {background-position: -80px -33px}
+.flag.flag-io {background-position: -96px -33px}
+.flag.flag-is {background-position: -112px -33px}
+.flag.flag-it {background-position: -128px -33px}
+.flag.flag-je {background-position: 0 -44px}
+.flag.flag-kurdistan {background-position: -16px -44px}
+.flag.flag-li {background-position: -32px -44px}
+.flag.flag-lt {background-position: -48px -44px}
+.flag.flag-lu {background-position: -64px -44px}
+.flag.flag-lv {background-position: -80px -44px}
+.flag.flag-mc {background-position: -96px -44px}
+.flag.flag-md {background-position: -112px -44px}
+.flag.flag-me {background-position: -128px -44px}
+.flag.flag-mk {background-position: 0 -55px}
+.flag.flag-mt {background-position: -16px -55px}
+.flag.flag-nl {background-position: -32px -55px}
+.flag.flag-no {background-position: -48px -55px}
+.flag.flag-pl {background-position: -64px -55px}
+.flag.flag-pt {background-position: -80px -55px}
+.flag.flag-ro {background-position: -96px -55px}
+.flag.flag-rs {background-position: -112px -55px}
+.flag.flag-ru {background-position: -128px -55px}
+.flag.flag-scotland {background-position: 0 -66px}
+.flag.flag-se {background-position: -16px -66px}
+.flag.flag-si {background-position: -32px -66px}
+.flag.flag-sk {background-position: -48px -66px}
+.flag.flag-sm {background-position: -64px -66px}
+.flag.flag-somaliland {background-position: -80px -66px}
+.flag.flag-tf {background-position: -96px -66px}
+.flag.flag-tr {background-position: -112px -66px}
+.flag.flag-ua {background-position: -128px -66px}
+.flag.flag-um {background-position: 0 -77px}
+.flag.flag-va {background-position: -16px -77px}
+.flag.flag-wales {background-position: -32px -77px}
+.flag.flag-zanzibar {background-position: -48px -77px}
+
+
+
+
+table#js2_countries_table{
+	width:100%;
+}
+
+table#js2_countries_table tbody tr td {
+	padding: 4px 0px 4px 0px !important;
+}
+
+table#js2_countries_table tbody tr td:nth-child(3){
+	text-align: right;
+}
+
+table#js2_countries_table thead tr th:nth-child(2){
+	text-align: left;
+}
+
+table#js2_countries_table thead tr th:nth-child(3){
+	text-align: right;
+	padding: 0px 0px 8px 0px !important;
+}
+
+table#js2_countries_table td{
+	border-bottom: 1px solid #efefef;
+}

@@ -1,0 +1,30 @@
+.js2_topfive{
+
+}
+
+.js2_topfive li {
+  padding: 2px 5px 2px 5px;
+  border-bottom: 1px solid #efefef;
+  line-height: 18px;
+}
+
+.js2_topfive li:last-child{
+  border: none;
+  padding: 2px 5px 2px 5px;
+  line-height: 18px;
+}
+
+.js2_topfive_wrap{
+  overflow: hidden;
+  clear: both;
+}
+
+.js2_topfive_name{
+  float: left;
+}
+
+.js2_topfive_sum{
+  float: right;
+  margin-left:5px;
+  font-style: italic;
+}
